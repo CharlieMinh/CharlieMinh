@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+ <rect width="1200" height="340" rx="16" fill="#f3f5ed"/>
+ <path d="M820 0v340M900 0v340M980 0v340M1060 0v340M1140 0v340M800 60h400M800 140h400M800 220h400M800 300h400" stroke="#dfe5d5" fill="none"/>
+ <circle cx="65" cy="56" r="5" fill="#4d7151"/><text x="83" y="62" font-family="monospace" font-size="13" letter-spacing="2" fill="#4d7151">PHAM VAN MINH / BACKEND DEVELOPER</text>
+ <text x="58" y="144" font-family="Arial, sans-serif" font-weight="700" font-size="56" letter-spacing="-2" fill="#203326">Backend at heart.</text>
+ <text x="58" y="210" font-family="Arial, sans-serif" font-weight="700" font-size="56" letter-spacing="-2" fill="#527155">Full-stack in progress.</text>
+ <text x="62" y="285" font-family="monospace" font-size="14" fill="#69765e">C# / .NET     JAVA / SPRING BOOT     SQL SERVER     AWS</text>
+ <rect x="905" y="80" width="200" height="182" rx="10" fill="#1a2b20"/>
+ <text x="933" y="116" font-family="monospace" font-size="11" fill="#a4bc92">// UNDER THE HOOD</text>
+ <text x="934" y="170" font-family="monospace" font-size="38" fill="#c5d8b0">{ API }</text>
+ <path d="M936 195h130" stroke="#55724d"/><text x="934" y="230" font-family="monospace" font-size="11" fill="#a4bc92">LOGIC → DATA</text>
+</svg>
